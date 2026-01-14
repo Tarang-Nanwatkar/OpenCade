@@ -17,9 +17,9 @@ const bird = {
     y: canvas.height / 2,
     width: 34,
     height: 24,
-    velocity: 0,
-    gravity: 0.5,
-    jump: -8
+    velocity: 1,
+    gravity: 0.1,
+    jump: -3
 };
 
 // Pipe properties
